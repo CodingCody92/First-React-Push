@@ -1,0 +1,17 @@
+.contain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    font-size: 100px;
+    margin: 20px;
+    background-color: rgb(241, 241, 241);
+}
+
+span {
+    font-size: 100px;
+    color: rgb(77, 77, 231);
+}
